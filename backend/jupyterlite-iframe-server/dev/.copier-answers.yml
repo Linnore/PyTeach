@@ -1,0 +1,15 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: v4.3.5
+_src_path: https://github.com/jupyterlab/extension-template
+author_email: junleli@link.cuhk.edu.cn
+author_name: Linnore
+has_binder: false
+has_settings: false
+kind: frontend
+labextension_name: pyteach-jupyterlite-iframe-server
+project_short_description: The based extension of jupyterlab for jupyterlite that
+    enables communication between jupyterlite-iframe and the host page used by PyTeach.
+python_name: pyteach_jupyterlite_iframe_server
+repository: ''
+test: false
+

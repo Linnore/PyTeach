@@ -1,0 +1,11 @@
+{
+  "dockerfile_lines": [],
+  "graphs": {
+    "agent": "./pyteach/agent.py:agent"
+  },
+  "env": ".env",
+  "python_version": "3.12",
+  "dependencies": [
+    "./pyteach"
+  ]
+}

@@ -1,0 +1,26 @@
+.DS_Store
+*.db
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+# backend
+backend/agentic-system-server/demo/memory/
+backend/agentic-system-server/memory/
+backend/jupyterlite-iframe-server/build/
+backend/llm-server/api/
+backend/llm-server/rag/
+backend/llm-server/langgraph/
+backend/llm-server/react/
+
+# Models
+*.gguf
+*.safetensors
+*.pt
+
+# Logs
+*.log

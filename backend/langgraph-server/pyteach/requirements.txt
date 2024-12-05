@@ -1,0 +1,12 @@
+langgraph
+langserve
+sse_starlette
+langchain_community
+langchain_ollama
+langgraph-checkpoint-sqlite
+fastapi
+dashvector==1.0.1
+dashscope==1.20.11
+python-socketio[client]
+pyaudio
+python-dotenv
